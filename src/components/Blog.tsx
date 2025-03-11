@@ -23,7 +23,7 @@ const Blog = () => {
       categories: ['React', 'Performance'],
     },
     {
-      title: 'The Future of Web Development: What's Coming in 2024',
+      title: "The Future of Web Development: What's Coming in 2024",
       excerpt: 'Exploring upcoming trends, technologies, and paradigms that will shape web development.',
       date: 'Aug 12, 2023',
       readTime: '10 min',
